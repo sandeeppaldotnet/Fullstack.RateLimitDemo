@@ -1,0 +1,6 @@
+@Fullstack.RateLimitDemo_HostAddress = http://localhost:5211
+
+GET {{Fullstack.RateLimitDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
